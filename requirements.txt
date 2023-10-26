@@ -1,0 +1,15 @@
+transformers
+datasets
+evaluate
+peft
+accelerate
+gradio
+optimum
+sentencepiece
+jupyterlab
+scikit-learn
+pandas
+matplotlib
+tensorboard
+nltk
+rouge
